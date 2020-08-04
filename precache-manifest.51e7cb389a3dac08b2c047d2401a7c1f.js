@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa917b42e42cf7e389dc7ddc78bdd194",
+    "revision": "06fe57aee9f150898b4b24fa64fdebeb",
     "url": "/temp_sushiYum_ghp/index.html"
   },
   {
-    "revision": "25ffbc290c4767928d66",
+    "revision": "fb414694265c2026a501",
     "url": "/temp_sushiYum_ghp/static/css/main.ed87226f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/temp_sushiYum_ghp/static/js/2.770114fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25ffbc290c4767928d66",
-    "url": "/temp_sushiYum_ghp/static/js/main.6456a655.chunk.js"
+    "revision": "fb414694265c2026a501",
+    "url": "/temp_sushiYum_ghp/static/js/main.7a17b216.chunk.js"
   },
   {
     "revision": "311097740952a5f67ec3",
