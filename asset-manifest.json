@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.f986d2ee.chunk.css",
-    "main.js": "/static/js/main.a314e803.chunk.js",
-    "main.js.map": "/static/js/main.a314e803.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b898d06b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b898d06b.js.map",
-    "static/js/2.2cc6573f.chunk.js": "/static/js/2.2cc6573f.chunk.js",
-    "static/js/2.2cc6573f.chunk.js.map": "/static/js/2.2cc6573f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7ae472f8a8d24d2e7701d629ccfad0ef.js": "/precache-manifest.7ae472f8a8d24d2e7701d629ccfad0ef.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.f986d2ee.chunk.css.map": "/static/css/main.f986d2ee.chunk.css.map",
-    "static/js/2.2cc6573f.chunk.js.LICENSE.txt": "/static/js/2.2cc6573f.chunk.js.LICENSE.txt",
-    "static/media/mainHeader.png": "/static/media/mainHeader.98883b9a.png"
+    "main.css": "/temp_sushi-yum/static/css/main.c09aed55.chunk.css",
+    "main.js": "/temp_sushi-yum/static/js/main.194e64d3.chunk.js",
+    "main.js.map": "/temp_sushi-yum/static/js/main.194e64d3.chunk.js.map",
+    "runtime-main.js": "/temp_sushi-yum/static/js/runtime-main.427e5ac6.js",
+    "runtime-main.js.map": "/temp_sushi-yum/static/js/runtime-main.427e5ac6.js.map",
+    "static/js/2.770114fc.chunk.js": "/temp_sushi-yum/static/js/2.770114fc.chunk.js",
+    "static/js/2.770114fc.chunk.js.map": "/temp_sushi-yum/static/js/2.770114fc.chunk.js.map",
+    "index.html": "/temp_sushi-yum/index.html",
+    "precache-manifest.889ee2a4edb2235d149f911a3217f71a.js": "/temp_sushi-yum/precache-manifest.889ee2a4edb2235d149f911a3217f71a.js",
+    "service-worker.js": "/temp_sushi-yum/service-worker.js",
+    "static/css/main.c09aed55.chunk.css.map": "/temp_sushi-yum/static/css/main.c09aed55.chunk.css.map",
+    "static/js/2.770114fc.chunk.js.LICENSE.txt": "/temp_sushi-yum/static/js/2.770114fc.chunk.js.LICENSE.txt",
+    "static/media/mainHeader.png": "/temp_sushi-yum/static/media/mainHeader.98883b9a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b898d06b.js",
-    "static/js/2.2cc6573f.chunk.js",
-    "static/css/main.f986d2ee.chunk.css",
-    "static/js/main.a314e803.chunk.js"
+    "static/js/runtime-main.427e5ac6.js",
+    "static/js/2.770114fc.chunk.js",
+    "static/css/main.c09aed55.chunk.css",
+    "static/js/main.194e64d3.chunk.js"
   ]
 }
